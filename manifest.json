@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "What's the current week?",
+  "description": "Show the current week number",
+  "version": "1.0",
+  "icons": {
+    "128": "128.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "128.png"
+  }
+}

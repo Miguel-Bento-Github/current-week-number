@@ -1,0 +1,11 @@
+body {
+  background: #333;
+  color: #f4f4f4;
+  font-family: Avenir, F37 Moon, sans-serif;
+  font-size: 2rem;
+  border-radius: .5rem;
+}
+
+div {
+  min-width: max-content;
+}
